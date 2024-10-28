@@ -26,9 +26,9 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 8) Visualize Product Data using a Bar Chart
 
 ### Program:
-Name: Leann Joby Mathew
+Name: YOGESHVAR M
 
-Reg No: 212222230074
+Reg No: 212222230180
 
 ```PYTHON
 import requests
